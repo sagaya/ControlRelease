@@ -5,16 +5,16 @@
         <link>https://raw.githubusercontent.com/sagaya/ControlRelease/main/appcast.xml</link>
         <description>Control macOS app updates</description>
         <language>en</language>
-                    <item>
+                <item>
             <title>Version 1.0.1</title>
-            <pubDate>Wed, 22 Apr 2026 13:15:32 -0400</pubDate>
+            <pubDate>Wed, 22 Apr 2026 13:37:26 -0400</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/sagaya/ControlRelease/releases/download/v1.0.1/Control-1.0.1.dmg"
                 sparkle:version="101"
                 sparkle:shortVersionString="1.0.1"
-                sparkle:edSignature="btPePivA+9roz5zdZpgg4uACWnWDefNoR4OuH9Kza0MOhzD7m5bS73mkuFxKhNBRwAPSH3G+BlRITVmtdIhQDA=="
-                length="19086791"
+                sparkle:edSignature="u/EijR9BTs58Wkdkhxt4H441VR+mtRIsAK02ySM7j8VO0ApApFkn2mULsHWDzLEQdaaES7tvOGOozgP/w+qUBg=="
+                length="19086821"
                 type="application/octet-stream"
             />
         </item>
