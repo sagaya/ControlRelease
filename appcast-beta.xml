@@ -5,7 +5,20 @@
         <link>https://raw.githubusercontent.com/sagaya/ControlRelease/main/appcast-beta.xml</link>
         <description>Beta channel for Control macOS app</description>
         <language>en</language>
-                    <item>
+                            <item>
+            <title>Version 1.0.4-beta.3</title>
+            <pubDate>Thu, 14 May 2026 12:09:55 -0400</pubDate>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/sagaya/ControlRelease/releases/download/v1.0.4-beta.3/Control-1.0.4-beta.3.dmg"
+                sparkle:version="10004003"
+                sparkle:shortVersionString="1.0.4-beta.3"
+                sparkle:edSignature="/nPmj7abLlhMTTwwuNxcuhPcK1jhQXwmbG/CnUewEgZxsgcifmrQGo3xJU5xbt7QULHMMet4J/x9W3uFDtIUAA=="
+                length="31576880"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.0.4-beta.2</title>
             <pubDate>Mon, 11 May 2026 12:58:16 -0400</pubDate>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
